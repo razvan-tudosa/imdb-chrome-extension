@@ -1,0 +1,12 @@
+{
+  "name": "imdb-extension",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "~3.3.0",
+    "mocha": "~2.3.3"
+  }
+}

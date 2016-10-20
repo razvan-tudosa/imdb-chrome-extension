@@ -1,0 +1,15 @@
+.helper-card {
+  background: mediumaquamarine;
+  height: 200px;
+  width: 150px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+  top: -999px;
+  left: -999px;
+  position: absolute;
+  display: none;
+}
+
+.helper-card.show {
+  display: block;
+}
